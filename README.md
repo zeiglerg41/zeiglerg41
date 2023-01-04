@@ -1,5 +1,6 @@
-### Hi there 👋
+### Welcome to my Page! 👋
 
+## I'm Garrett, an ambitious and enthusiastic Web Developer!
 <!--
 **zeiglerg41/zeiglerg41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
