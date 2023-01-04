@@ -1,5 +1,5 @@
 ## Hi there! 👋 I'm Garrett and welcome to my page! ✨
-  <img src="//C:Users/Garry/Pictures/github_pic.jpg">
+  ![plot](./Users/Garry/Pictures/github_pic.jpg)
     
 ### 
 
