@@ -1,10 +1,13 @@
 ## Hi there! 👋 I'm Garrett and welcome to my page! ✨
   ![plot](./Users/Garry/Pictures/github_pic.jpg)
     
-### 
-
 ### Contact me
-Z
+
+- 🔭 I’m currently working on creating an AI Personal Assistant wesbite that will allow users to automate tedious and repetitive tasks
+- 🌱 I’m currently learning React and AngularJS for dynamic web development, as well as SQL and Tableau
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/gwz3555/">
+- 😄 Pronouns: He/Him
+- ⚡ Fun Fact: I've never sang on karaoke night and it's certainly for the best 🙃
 <!--
 **zeiglerg41/zeiglerg41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
