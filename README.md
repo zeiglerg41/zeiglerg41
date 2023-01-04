@@ -1,6 +1,10 @@
-### Welcome to my Page! 👋
+## Hi there! I'm Garrett and welcome to my page! 👋
+  <a href = "C:\Users\Garry\Pictures/github_pic.jpg">
+    
+### 
 
-## I'm Garrett, an ambitious and enthusiastic Web Developer!
+### Contact me
+Z
 <!--
 **zeiglerg41/zeiglerg41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
