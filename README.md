@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning React and AngularJS for dynamic web development, as well as SQL and Tableau
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/gwz3555/">LinkedIn Profile</a>
 - 😄 Pronouns: He/Him
-- ⚡ Fun Fact: I've never sang on karaoke night and it's certainly for the best 🙃
+- ⚡ Fun Fact: I've never sang karaoke and it's certainly for the best 🙃
 <!--
 **zeiglerg41/zeiglerg41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
