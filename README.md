@@ -3,8 +3,8 @@
 ### Contact me
 
 - 📚 I’m currently enrolled in the Data Analytics Career Track with Springboard, developing my skills with the latest Business Analystics and Data Science tools/software
-- 🔭 I’m currently working two data analysis Capstone Projects utilizing SQL, Python, and Data Visualization Software(PowerBI and Tableau)
-- 😁 I am most inetrested in developing strong interpersonal connections within my team for future roles to allow for seamless, prcedural and effective collaborations
+- 🔭 My latest projects involve two data analysis Capstone Projects utilizing SQL, Python, and Data Visualization Software(PowerBI and Tableau)
+- 😁 I am most interested in developing strong interpersonal connections within my team for future roles to allow for seamless, procedural and effective collaborations
 - 🖥️ On the side, I have developed several personal projects related to front-end development using HTML, CSS, and JavaScript as well as learning relevant frameworks such as ReactJS and Angular
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/gwz3555/">LinkedIn Profile</a>
 - 😄 Pronouns: He/Him
