@@ -1,25 +1,15 @@
-## Hi there! 👋 I'm Garrett and welcome to my page! ✨
-    
-### Contact me
+# Hi there! 👋 I'm Garrett and welcome to my page! ✨
 
-- 📚 I’m currently enrolled in the Data Analytics Career Track with Springboard, developing my skills with the latest Business Analystics and Data Science tools/software
-- 🔭 My latest projects involve two data analysis Capstone Projects utilizing SQL, Python, and Data Visualization Software(PowerBI and Tableau)
-- 😁 I am most interested in developing strong interpersonal connections within my team for future roles to allow for seamless, procedural and effective collaborations
-- 🖥️ On the side, I have developed several personal projects related to front-end development using HTML, CSS, and JavaScript as well as learning relevant frameworks such as ReactJS and Angular
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/gwz3555/">LinkedIn Profile</a>
-- 😄 Pronouns: He/Him
-- ⚡ Fun Fact: I've never sang karaoke and it's certainly for the best 🙃
-<!--
-**zeiglerg41/zeiglerg41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact Me
+- 📬 **Email:** zeiglerg41@gmail.com
+- 💼 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/garrettzeigler)
+- 🌐 **Portfolio:** [Portfolio](https://zeiglerg41.github.io/garrett_zeigler_page.github.io/)
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 **Background:** I'm an experienced Software Developer with a strong focus on real-time data tracking and complex software solutions. Recently, I’ve been leveraging my skills in Python, React.js, and data analytics to drive impactful projects.
+- 🔭 **Current Projects:** Developing comprehensive software solutions for real-time data monitoring, and exploring new ways to integrate technical expertise into client-facing roles.
+- 😁 **What I’m Passionate About:** Building strong interpersonal connections within my team to foster seamless and effective collaboration.
+- 🛠️ **On the Side:** Continuously honing my skills in web development and data analysis, with personal projects involving React.js and data visualization tools like Tableau.
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun Fact:** I’ve never sung karaoke, and trust me, it’s probably for the best! 🙃
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
